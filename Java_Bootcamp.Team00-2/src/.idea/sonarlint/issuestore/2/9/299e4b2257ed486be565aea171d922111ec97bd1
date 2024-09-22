@@ -1,0 +1,26 @@
+
+¡	java:S135Ã"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ÃÁ†ç1J$123b5b3f-45ee-4d70-b982-040e6f25874a
+d
+java:S1659	"!Declare "col" on a separate line.(æáò•8­Å†ç1J$de761159-2878-40ce-af4b-aa0319579e0d
+n	java:S106’"+Replace this use of System.out by a logger.(“¾ŸÈ8ºÅ†ç1J$3ab13227-f247-4951-8f81-d3d4f7978950
+›
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(½ƒ –øÿÿÿÿ8¼Å†ç1J$7bdb456e-f252-4642-ad7d-7ac6a4519733
+n	java:S106¡"+Replace this use of System.out by a logger.(Îœò—8½Å†ç1J$b4b32025-0215-40d9-9902-97d28d32f25b
+n	java:S106¢"+Replace this use of System.out by a logger.(ÚÂâ8¿Å†ç1J$6e143790-ef16-4ed8-8094-26ec720d97f1
+n	java:S106¦"+Replace this use of System.out by a logger.(¡µËñ8ÆÅ†ç1J$545a8816-3aac-4177-85e4-c2c9159ffac6
+s	java:S106¹"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÇÅ†ç1J$3e8203d9-e9f5-4e38-9155-204748a91d61
+n	java:S106†"+Replace this use of System.out by a logger.(­áæï8ÇÅ†ç1J$f174d3d6-d82c-455d-bcda-877283e0e667
+s	java:S106‰"+Replace this use of System.out by a logger.(œˆÆıÿÿÿÿ8ÉÅ†ç1J$5353cc3e-fcf1-4afb-a441-964482a39843
+n	java:S106"+Replace this use of System.out by a logger.(™ıó‹8ÍÅ†ç1J$ff55e560-679d-4278-89f8-42f87f22837a
+s	java:S106"+Replace this use of System.out by a logger.(³ã— üÿÿÿÿ8ÍÅ†ç1J$7d96e161-8621-45ee-928b-f3e3762862ea
+Š
+java:S1126Õ"AReplace this if-then-else statement by a single return statement.(éŠÚªúÿÿÿÿ8ËÅ†ç1J$2cc1b964-7da4-4d1c-891c-1b0ab97226bb
+s	java:S106İ"+Replace this use of System.out by a logger.(ÔÚ€€ÿÿÿÿÿ8ÎÅ†ç1J$ccda0b41-1dd9-4223-b351-dc675503e05a
+n	java:S106ã"+Replace this use of System.out by a logger.(å¼Ëü8ÙÅ†ç1J$66d371e8-fe12-40e1-9dcd-bc1d8256d0b9
+n	java:S106ê"+Replace this use of System.out by a logger.(å¼Ëü8ÚÅ†ç1J$d7e65350-add9-4552-b532-ebe88797ab55
+„	java:S125ˆ"<This block of commented-out lines of code should be removed.(æê‚¶şÿÿÿÿ8ÒÅ†ç1J$24b0bfb6-8ccd-433f-8646-9b012216ebb2
+a
+java:S2119"Save and re-use this "Random".(¼İÅf8ÕÅ†ç1J$73fd03c2-f632-487b-b672-06c180dacc0d
+m	java:S106Å"+Replace this use of System.out by a logger.(¿”­L8ÛÅ†ç1J$44ee3308-ecff-4b23-b475-96d4f7216ef2
+M	java:S106Î"+Replace this use of System.out by a logger.(¯ğï´ıÿÿÿÿ8óàˆ‡ç1
+M	java:S106à"+Replace this use of System.out by a logger.(½¦ÿÿÿÿÿ8ôàˆ‡ç1

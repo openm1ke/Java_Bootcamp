@@ -1,0 +1,12 @@
+org/logic/GameParser.class
+org/logic/Parametrs.class
+org/logic/AddPointException.class
+org/logic/GameParser$GAME_SUBJECTS.class
+org/logic/GameParser$Wall.class
+org/logic/Parser.class
+org/logic/GameParser$Player.class
+org/logic/Main.class
+org/logic/Point.class
+org/logic/GameParser$Enemy.class
+org/logic/GameParser$Door.class
+org/logic/PathFinder.class

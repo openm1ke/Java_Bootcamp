@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="452a8037-30b7-40f9-8b33-9c288c9d2d53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JDBCTemplate/src/main/java/org/example/jdbctemplate/JdbcTemplateApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDBCTemplate/src/main/java/org/example/jdbctemplate/JdbcTemplateApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex02/Service/src/main/java/org/example/service/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex02/Service/src/main/java/org/example/service/config/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex02/Service/src/main/java/org/example/service/repositories/UsersRepositoryJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex02/Service/src/main/java/org/example/service/repositories/UsersRepositoryJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex02/Service/src/main/java/org/example/service/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex02/Service/src/main/java/org/example/service/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex02/Service/src/test/java/org/example/service/config/TestApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex02/Service/src/test/java/org/example/service/config/TestApplicationConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2kvmlNUKCXyUd8jMjTiym67Nyd9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/mnt/d/PROJECTS/ClionProjects/S21/JavaBootcamp/Java_Bootcamp.Day08-1/src/ex02"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="452a8037-30b7-40f9-8b33-9c288c9d2d53" name="Changes" comment="" />
+      <created>1724172574223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724172574223</updated>
+      <workItem from="1724172575208" duration="31000" />
+    </task>
+    <servers />
+  </component>
+</project>

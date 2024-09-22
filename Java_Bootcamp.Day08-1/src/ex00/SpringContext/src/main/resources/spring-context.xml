@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans  xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Бин для классов препроцессора -->
+    <bean id="preProcessorToLower" class="org.example.springcontext.preprocessor.PreProcessorToLowerImpl"/>
+    <bean id="preProcessorToUpper" class="org.example.springcontext.preprocessor.PrePcoessorToUpperImpl"/>
+
+    <!-- Бин для класса рендера Stadart с параметром бина препроцессора ToLower -->
+    <bean id="rendererStandartPreProcessorToLower" class="org.example.springcontext.renderer.RendererStandartImpl">
+        <constructor-arg ref="preProcessorToLower"/>
+    </bean>
+
+    <!-- Бин для класса рендера Stadart с параметром бина препроцессора ToUpper -->
+    <bean id="rendererStandartPreProcessorToUpper" class="org.example.springcontext.renderer.RendererStandartImpl">
+        <constructor-arg ref="preProcessorToUpper"/>
+    </bean>
+
+    <!-- Бин для класса рендера Error с параметром бина препроцессора ToLower -->
+    <bean id="rendererErrorPreProcessorToLower" class="org.example.springcontext.renderer.RendererErrImpl">
+        <constructor-arg ref="preProcessorToLower"/>
+    </bean>
+
+    <!-- Бин для класса рендера Error с параметром бина препроцессора ToUpper -->
+    <bean id="rendererErrorPreProcessorToUpper" class="org.example.springcontext.renderer.RendererErrImpl">
+        <constructor-arg ref="preProcessorToUpper"/>
+    </bean>
+
+
+    <!-- PrinterWithDate RenderStandart ProcessorToLower -->
+    <bean id="printerWithDateTimeRendererStandartPreProcessorToLower" class="org.example.springcontext.printer.PrinterWithDateTimeImpl">
+        <constructor-arg ref="rendererStandartPreProcessorToLower"/>
+    </bean>
+    <!-- PrinterWithDate RenderStandart ProcessorToUpper -->
+    <bean id="printerWithDateTimeRendererStandartPreProcessorToUpper" class="org.example.springcontext.printer.PrinterWithDateTimeImpl">
+        <constructor-arg ref="rendererStandartPreProcessorToUpper"/>
+    </bean>
+
+    <!-- PrinterWithDate RenderError ProcessorToLower -->
+    <bean id="printerWithDateTimeRendererErrorPreProcessorToLower" class="org.example.springcontext.printer.PrinterWithDateTimeImpl">
+        <constructor-arg ref="rendererErrorPreProcessorToLower"/>
+    </bean>
+
+    <!-- PrinterWithDate RenderError ProcessorToLower -->
+    <bean id="printerWithDateTimeRendererErrorPreProcessorToUpper" class="org.example.springcontext.printer.PrinterWithDateTimeImpl">
+        <constructor-arg ref="rendererErrorPreProcessorToUpper"/>
+    </bean>
+
+
+
+    <!-- PrinterWithPrefix RenderStandart ProcessorToLower -->
+    <bean id="printerWithPrefixRendererStandartPreProcessorToLower" class="org.example.springcontext.printer.PrinterWithPrefixImpl">
+        <constructor-arg ref="rendererStandartPreProcessorToLower"/>
+    </bean>
+
+    <!-- PrinterWithPrefix RenderStandart ProcessorToUpper -->
+    <bean id="printerWithPrefixRendererStandartPreProcessorToUpper" class="org.example.springcontext.printer.PrinterWithPrefixImpl">
+        <constructor-arg ref="rendererStandartPreProcessorToUpper"/>
+    </bean>
+
+    <!-- PrinterWithPrefix RenderError ProcessorToLower -->
+    <bean id="printerWithPrefixRendererErrorPreProcessorToLower" class="org.example.springcontext.printer.PrinterWithPrefixImpl">
+        <constructor-arg ref="rendererErrorPreProcessorToLower"/>
+    </bean>
+
+    <!-- PrinterWithPrefix RenderError ProcessorToUpper -->
+    <bean id="printerWithPrefixRendererErrorPreProcessorToUpper" class="org.example.springcontext.printer.PrinterWithPrefixImpl">
+        <constructor-arg ref="rendererErrorPreProcessorToUpper"/>
+    </bean>
+
+</beans>

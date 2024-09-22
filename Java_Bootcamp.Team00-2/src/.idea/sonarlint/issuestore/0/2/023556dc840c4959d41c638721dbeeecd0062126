@@ -1,0 +1,20 @@
+
+”
+java:S1104"QMake rows_ a static final constant or non-public and provide accessors if needed.(–šÂò8‰ûÍ„ç1J$6b725312-df73-421f-895d-1f5913b3bf92
+™
+java:S1104"QMake cols_ a static final constant or non-public and provide accessors if needed.(ÜÄÿ¸ıÿÿÿÿ8‰ûÍ„ç1J$59fd6207-0a33-4247-b5dd-758be9811856
+œ
+java:S1104	"TMake columns_ a static final constant or non-public and provide accessors if needed.(ÂûĞõúÿÿÿÿ8ŠûÍ„ç1J$ea88c1a2-4c2f-4c5a-84fa-a0758a55c0e4
+’	java:S116"PRename this field "rows_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–šÂò8ºşÍ„ç1J$f858ec3c-aa20-424a-a5c3-b41138243145
+—	java:S116"PRename this field "cols_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÄÿ¸ıÿÿÿÿ8ºşÍ„ç1J$9fd85a39-96d5-4f6a-9637-3a4efa0ca024
+š	java:S116	"SRename this field "columns_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂûĞõúÿÿÿÿ8ºşÍ„ç1J$d6cf15a2-452f-4d6a-9e23-0d00b0a7a712
+“	java:S116
+"QRename this field "count_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÇ¡‡8ºşÍ„ç1J$7cb30f90-4d9a-4bed-8e40-b80a171a51e3
+˜	java:S116"WRename this field "wave_matrix_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¶êQ8ºşÍ„ç1J$43b2f39e-e76f-4034-89a8-71c30beaf060
+X	java:S125"<This block of commented-out lines of code should be removed.(ĞÍ¿ú8ë¬Ö†ç1
+m	java:S106/"+Replace this use of System.err by a logger.(àÃÔ8ÀşÍ„ç1J$aaac3d28-a547-41ed-ac44-5bb3e5c4835f
+•
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(´™¿ı8ÁşÍ„ç1J$583fca7e-73b7-407f-aa9e-5764996386a5
+r	java:S106x"+Replace this use of System.out by a logger.(åÒ¸¡úÿÿÿÿ8‡ø©†ç1J$cb63e4a8-0cd5-470d-be61-eb61d3495662
+m	java:S106{"+Replace this use of System.out by a logger.(¡ë©»8‡ø©†ç1J$45563e6f-c2ab-4372-a90b-3160b98ffbd5
+r	java:S106}"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‡ø©†ç1J$03cb48eb-4e8e-40da-b267-a7f24309ed3d
